@@ -115,3 +115,23 @@ form {
 		top: unset;
 	}
 }
+
+
+/* locations.html*/
+.pic-col {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.locs {
+	flex-wrap: wrap;
+}
+
+@media(max-width: 576px) {
+
+	.locs {
+		padding-left: 20px;
+	}
+}
+
